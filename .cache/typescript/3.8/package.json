@@ -1,0 +1,1 @@
+{"private":true,"dependencies":{"types-registry":"^0.1.605"},"devDependencies":{"@types/lodash.get":"^4.4.6","@types/nise":"^1.4.0","@types/node":"^17.0.21","@types/semver-compare":"^1.0.1","@types/sinon":"^10.0.11"}}
