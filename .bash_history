@@ -143,3 +143,27 @@ ls
 ls
 ls
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/derrickdaubon/events-app-external.git
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+echo "# events-app-external" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/derrickdaubon/events-app-external.git
+git push -u origin main
+ls
+ls
+git config --global user.email "your_email_on_github"
+git config --global user.email "ddaubon@deloitte.com"
+git config --user.name "derrickdaubon"
+git config --global user.email "ddaubon@deloitte.com"
+git config --global user.name "derrickdaubon"
+git config --global init.defaultBranch main
+git config --global --list
+git init
