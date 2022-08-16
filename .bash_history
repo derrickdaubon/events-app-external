@@ -167,3 +167,7 @@ git config --global user.name "derrickdaubon"
 git config --global init.defaultBranch main
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/derrickdaubon/events-app-internal.git
+git init
